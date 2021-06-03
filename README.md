@@ -1,6 +1,8 @@
 ## 객체 지향 프로그래밍
 
-1. [C++ 프로그래밍의 특성](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/C%2B%2B%EC%9D%98%20%ED%8A%B9%EC%84%B1.md)
+2. [C++ 프로그래밍의 특성](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/C%2B%2B%EC%9D%98%20%ED%8A%B9%EC%84%B1.md)
+
+3. [C++ 개발 환경 설정](https://github.com/Ho-yeong/uni_lecture_sum/tree/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/Visual_Studio%EB%A5%BC_%EC%9D%B4%EC%9A%A9%ED%95%9C_C%2B%2B%EA%B0%9C%EB%B0%9C)
 
 ---
 
@@ -19,5 +21,7 @@
 1. [운영체제의 개요](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%20%EA%B0%9C%EC%9A%94.md)
 
 2. [운영체제의 구성과 기능](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%20%EA%B5%AC%EC%84%B1%EA%B3%BC%20%EA%B8%B0%EB%8A%A5.md)
+
+3. [운영체제의 발전 과정](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%20%EB%B0%9C%EC%A0%84%EA%B3%BC%EC%A0%95.md)
 
 ---
