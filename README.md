@@ -46,7 +46,7 @@
 
 5. [프로그래밍 언어](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4.md)
 
-6. [언어 번역 프로그램]()
+6. [언어 번역 프로그램](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%96%B8%EC%96%B4%20%EB%B2%88%EC%97%AD%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.md)
 
 ---
 
