@@ -24,7 +24,7 @@
 
 4. [인터 네트워킹](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9D%B8%ED%84%B0%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9.md)
 
-5. [IP]()
+5. [IP](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/IP.md)
 
 ---
 
