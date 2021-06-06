@@ -8,6 +8,8 @@
 
 4. [C++의 기본요소와 입력받기](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/C%2B%2B%EC%9D%98%20%EA%B8%B0%EB%B3%B8%EC%9A%94%EC%86%8C%EC%99%80%20%EC%9E%85%EB%A0%A5%EB%B0%9B%EA%B8%B0.md)
 
+5. [문자열과 입력 다루기](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%9E%85%EB%A0%A5%20%EB%8B%A4%EB%A3%A8%EA%B8%B0.md)
+
 ---
 
 ---
