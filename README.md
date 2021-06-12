@@ -14,7 +14,7 @@
 
 ---
 
-7. [클래스의 정의와 객체 생성]()
+7. [클래스의 정의와 객체 생성](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9D%98%20%EC%A0%95%EC%9D%98%EC%99%80%20%EA%B0%9D%EC%B2%B4%EC%83%9D%EC%84%B1.md)
 
 ---
 
