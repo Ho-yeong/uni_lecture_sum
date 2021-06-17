@@ -18,7 +18,7 @@
 
 8. [클래스의 소멸자, 접근지정, 인라인 함수](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9D%98%20%EC%86%8C%EB%A9%B8%EC%9E%90%2C%20%EC%A0%91%EA%B7%BC%EC%A7%80%EC%A0%95%2C%20%EC%9D%B8%EB%9D%BC%EC%9D%B8%20%ED%95%A8%EC%88%98.md)
 
-9. [클래스와 객체 실습]()
+9. [클래스와 객체 실습](https://github.com/Ho-yeong/uni_lecture_sum/tree/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/3-3)
 
 ---
 
