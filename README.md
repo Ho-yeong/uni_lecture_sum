@@ -74,6 +74,6 @@
 
 ---
 
-10. [스케줄링]()
+10. [스케줄링](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)
 
 ---
