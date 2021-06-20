@@ -44,7 +44,7 @@
 
 8. [UDP & ICMP](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/UDP%26ICMP.md)
 
-9. [프로세스/데몬 관련 리눅스 기본명령어]()
+9. [프로세스/데몬 관련 리눅스 기본명령어](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EB%8D%B0%EB%AA%AC%20%EA%B4%80%EB%A0%A8%20%EB%A6%AC%EB%88%85%EC%8A%A4%20%EA%B8%B0%EB%B3%B8%EB%AA%85%EB%A0%B9%EC%96%B4.md)
 
 ---
 
