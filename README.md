@@ -48,6 +48,10 @@
 
 ---
 
+10. [IPC 개념 그리고 시그널/ 파이프 기법]()
+
+---
+
 ## 운영체제
 
 1. [운영체제의 개요](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%20%EA%B0%9C%EC%9A%94.md)
