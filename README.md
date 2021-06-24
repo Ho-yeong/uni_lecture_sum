@@ -90,6 +90,6 @@
 
 11. [비선점 스케줄링](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EB%B9%84%EC%84%A0%EC%A0%90%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)
 
-12. [선점 스케줄링]()
+12. [선점 스케줄링](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%84%A0%EC%A0%90%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)
 
 ---
