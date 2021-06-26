@@ -58,6 +58,8 @@
 
 11. [메시지 큐와 공유 메모리](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EB%A9%94%EC%8B%9C%EC%A7%80%20%ED%81%90%EC%99%80%20%EA%B3%B5%EC%9C%A0%20%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
 
+12. [IPC 실습]()
+
 ---
 
 ## 운영체제
