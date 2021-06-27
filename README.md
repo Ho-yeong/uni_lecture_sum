@@ -100,6 +100,6 @@
 
 13. [병행프로세서와 상호배제, 교착상태](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EB%B3%91%ED%96%89%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C%EC%99%80%20%EC%83%81%ED%98%B8%EB%B0%B0%EC%A0%9C%2C%20%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C.md)
 
-14. [교착상태의 개요와 발생]()
+14. [교착상태의 개요와 발생](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C%EC%9D%98%20%EA%B0%9C%EC%9A%94%EC%99%80%20%EB%B0%9C%EC%83%9D.md)
 
 ---
