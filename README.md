@@ -102,6 +102,6 @@
 
 14. [교착상태의 개요와 발생](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C%EC%9D%98%20%EA%B0%9C%EC%9A%94%EC%99%80%20%EB%B0%9C%EC%83%9D.md)
 
-15. [교착상태의 해결]()
+15. [교착상태의 해결](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C%EC%9D%98%20%ED%95%B4%EA%B2%B0.md)
 
 ---
