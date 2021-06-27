@@ -26,7 +26,7 @@
 
 11. [객체의 동적 생성 및 반환, this 포인터의 이해, string 클래스의 사용](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EB%8F%99%EC%A0%81%20%EC%83%9D%EC%84%B1%20%EB%B0%8F%20%EB%B0%98%ED%99%98%2C%20this%20%ED%8F%AC%EC%9D%B8%ED%84%B0%EC%9D%98%20%EC%9D%B4%ED%95%B4%2C%20string%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9D%98%20%EC%82%AC%EC%9A%A9.md)
 
-12. [객체 포인터와 객체 배열, 객체의 동적 생성]()
+12. [객체 포인터와 객체 배열, 객체의 동적 생성](https://github.com/Ho-yeong/uni_lecture_sum/tree/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/4-3)
 
 ---
 
@@ -98,6 +98,8 @@
 
 ---
 
-13. [병행프로세서와 상호배제, 교착상태]()
+13. [병행프로세서와 상호배제, 교착상태](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EB%B3%91%ED%96%89%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C%EC%99%80%20%EC%83%81%ED%98%B8%EB%B0%B0%EC%A0%9C%2C%20%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C.md)
+
+14. [교착상태의 개요와 발생]()
 
 ---
