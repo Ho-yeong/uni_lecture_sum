@@ -64,6 +64,10 @@
 
 ---
 
+13. [파일 기술자, 주소 구조체, 바이트 순서]()
+
+---
+
 ## 운영체제
 
 1. [운영체제의 개요](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%20%EA%B0%9C%EC%9A%94.md)
