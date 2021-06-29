@@ -30,6 +30,10 @@
 
 ---
 
+13. [함수의 인자 전달 방식과 참조]()
+
+---
+
 ## 네트워크 프로그래밍
 
 1. [컴퓨터 네크워크의 개요](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EA%B0%9C%EC%9A%94.md)
@@ -65,6 +69,8 @@
 ---
 
 13. [파일 기술자, 주소 구조체, 바이트 순서](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%8C%8C%EC%9D%BC%20%EA%B8%B0%EC%88%A0%EC%9E%90%2C%20%EC%A3%BC%EC%86%8C%20%EA%B5%AC%EC%A1%B0%EC%B2%B4%2C%20%EB%B0%94%EC%9D%B4%ED%8A%B8%20%EC%88%9C%EC%84%9C.md)
+
+14. [변환 및 송수신 APIs]()
 
 ---
 
