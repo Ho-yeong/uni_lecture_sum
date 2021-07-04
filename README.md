@@ -121,3 +121,7 @@
 15. [교착상태의 해결](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C%EC%9D%98%20%ED%95%B4%EA%B2%B0.md)
 
 ---
+
+16. [기억장치의 개요]()
+
+---
