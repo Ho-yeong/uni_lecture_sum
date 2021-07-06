@@ -38,7 +38,7 @@
 
 ---
 
-16. [함수의 다형성]()
+16. [함수의 다형성](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%95%A8%EC%88%98%EC%9D%98%20%EB%8B%A4%ED%98%95%EC%84%B1.md)
 
 ---
 
