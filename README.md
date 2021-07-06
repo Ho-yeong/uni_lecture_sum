@@ -80,9 +80,9 @@
 
 ---
 
-16. [소켓과 클라이언트 API]()
+16. [소켓과 클라이언트 API](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%86%8C%EC%BC%93%EA%B3%BC%20%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%20API.md)
 
-17. [서버 API]()
+17. [서버 API](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%84%9C%EB%B2%84%20API.md)
 
 ---
 
