@@ -146,10 +146,10 @@
 
 ---
 
-19. [가상기억장치의 개요]()
+19. [가상기억장치의 개요](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EA%B0%80%EC%83%81%EA%B8%B0%EC%96%B5%EC%9E%A5%EC%B9%98%EC%9D%98%20%EA%B0%9C%EC%9A%94.md)
 
-20. [가상기억장치의 구현]()
+20. [가상기억장치의 구현](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EA%B0%80%EC%83%81%EA%B8%B0%EC%96%B5%EC%9E%A5%EC%B9%98%EC%9D%98%20%EA%B5%AC%ED%98%84.md)
 
-21. [페이지교체 알고리즘]()
+21. [페이지교체 알고리즘](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%ED%8E%98%EC%9D%B4%EC%A7%80%EA%B5%90%EC%B2%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
 
 ---
