@@ -40,9 +40,9 @@
 
 16. [함수의 다형성](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%95%A8%EC%88%98%EC%9D%98%20%EB%8B%A4%ED%98%95%EC%84%B1.md)
 
-17. [함수 중복의 모호성, Static 멤버]()
+17. [함수 중복의 모호성, Static 멤버](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%95%A8%EC%88%98%20%EC%A4%91%EB%B3%B5%EC%9D%98%20%EB%AA%A8%ED%98%B8%EC%84%B1%2C%20Static%20%EB%A9%A4%EB%B2%84.md)
 
-18. [함수의 다형성과 static 멤버 실습]()
+18. [함수의 다형성과 static 멤버 실습](https://github.com/Ho-yeong/uni_lecture_sum/tree/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/6-3)
 
 ---
 
@@ -91,6 +91,8 @@
 16. [소켓과 클라이언트 API](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%86%8C%EC%BC%93%EA%B3%BC%20%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%20API.md)
 
 17. [서버 API](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%84%9C%EB%B2%84%20API.md)
+
+18. [Echo 프로그램 실습](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/Echo%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%8B%A4%EC%8A%B5.md)
 
 ---
 
@@ -141,5 +143,13 @@
 17. [주기억장치의 할당](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%A3%BC%EA%B8%B0%EC%96%B5%EC%9E%A5%EC%B9%98%EC%9D%98%20%ED%95%A0%EB%8B%B9.md)
 
 18. [주기억장치의 관리](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%A3%BC%EA%B8%B0%EC%96%B5%EC%9E%A5%EC%B9%98%EC%9D%98%20%EA%B4%80%EB%A6%AC.md)
+
+---
+
+19. [가상기억장치의 개요]()
+
+20. [가상기억장치의 구현]()
+
+21. [페이지교체 알고리즘]()
 
 ---
