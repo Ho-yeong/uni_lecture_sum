@@ -96,9 +96,9 @@
 
 ---
 
-19. [데이터의 경계]()
+19. [데이터의 경계](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%EA%B2%BD%EA%B3%84.md)
 
-20. [파일 접근 및 처리]()
+20. [파일 접근 및 처리](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%8C%8C%EC%9D%BC%20%EC%A0%91%EA%B7%BC%20%EB%B0%8F%20%EC%B2%98%EB%A6%AC.md)
 
 ---
 
