@@ -166,8 +166,8 @@
 
 ---
 
-22. [보조기억장치의 개요]()
+22. [보조기억장치의 개요](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EB%B3%B4%EC%A1%B0%EA%B8%B0%EC%96%B5%EC%9E%A5%EC%B9%98%EC%9D%98%20%EA%B0%9C%EC%9A%94.md)
 
-23. [디스크 스케줄링]()
+23. [디스크 스케줄링](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)
 
 ---
