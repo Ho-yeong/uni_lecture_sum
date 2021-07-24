@@ -2,7 +2,7 @@
 
 ### NAT
 
-- Naetwork Address Translation
+- Network Address Translation
 
 ### 패킷
 
