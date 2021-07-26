@@ -48,7 +48,13 @@
 
 19. [프렌드와 연산자 중복의 이해](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%94%84%EB%A0%8C%EB%93%9C%EC%99%80%20%EC%97%B0%EC%82%B0%EC%9E%90%20%EC%A4%91%EB%B3%B5%EC%9D%98%20%EC%9D%B4%ED%95%B4.md)
 
-20. [연산자 중복]()
+20. [연산자 중복](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%97%B0%EC%82%B0%EC%9E%90%20%EC%A4%91%EB%B3%B5.md)
+
+---
+
+22. [클래스 상속과 객체]()
+
+23. [상속과 생성자와 소멸자, 상속의 종류]()
 
 ---
 
