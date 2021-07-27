@@ -56,6 +56,8 @@
 
 23. [상속과 생성자와 소멸자, 상속의 종류](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%83%81%EC%86%8D%EA%B3%BC%20%EC%83%9D%EC%84%B1%EC%9E%90%EC%99%80%20%EC%86%8C%EB%A9%B8%EC%9E%90%2C%20%EC%83%81%EC%86%8D%EC%9D%98%20%EC%A2%85%EB%A5%98.md)
 
+24. [상속 실습](https://github.com/Ho-yeong/uni_lecture_sum/tree/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/9-3)
+
 ---
 
 ## 네트워크 프로그래밍
