@@ -189,3 +189,7 @@
 24. [RAID](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/RAID.md)
 
 ---
+
+25. [파일 관리]()
+
+---
