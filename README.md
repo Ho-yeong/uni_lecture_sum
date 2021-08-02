@@ -60,6 +60,12 @@
 
 ---
 
+25. [가상 함수와 추상 클래스, 오버라이딩]()
+
+26. [가상 함수와 오버라이딩, 추상클래스 활용]()
+
+---
+
 ## 네트워크 프로그래밍
 
 1. [컴퓨터 네크워크의 개요](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EA%B0%9C%EC%9A%94.md)
@@ -121,6 +127,12 @@
 23. [다중 접속 처리](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EB%8B%A4%EC%A4%91%20%EC%A0%91%EC%86%8D%20%EC%B2%98%EB%A6%AC.md)
 
 24. [다중 접속](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EB%8B%A4%EC%A4%91%20%EC%A0%91%EC%86%8D.md)
+
+---
+
+25. [다중 I/O 개념 및 폴링 기법]()
+
+26. [다중 I/O를 위한 Select 기법]()
 
 ---
 
@@ -190,10 +202,10 @@
 
 ---
 
-25. [파일 관리]()
+25. [파일 관리](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%ED%8C%8C%EC%9D%BC%EA%B4%80%EB%A6%AC.md)
 
-26. [디렉터리 시스템]()
+26. [디렉터리 시스템](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EB%94%94%EB%A0%89%ED%84%B0%EB%A6%AC%20%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
 
-27. [디스크 할당]()
+27. [디스크 할당](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EB%94%94%EC%8A%A4%ED%81%AC%20%ED%95%A0%EB%8B%B9.md)
 
 ---
