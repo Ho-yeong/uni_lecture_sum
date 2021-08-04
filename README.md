@@ -64,6 +64,8 @@
 
 26. [가상 함수와 오버라이딩, 추상클래스 활용](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EA%B0%80%EC%83%81%20%ED%95%A8%EC%88%98%EC%99%80%20%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9%20%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4%20%ED%99%9C%EC%9A%A9.md)
 
+27. [가상 함수와 추상클래스 실습](https://github.com/Ho-yeong/uni_lecture_sum/tree/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/10-3)
+
 ---
 
 ## 네트워크 프로그래밍
@@ -130,9 +132,9 @@
 
 ---
 
-25. [다중 I/O 개념 및 폴링 기법]()
+25. [다중 I/O 개념 및 폴링 기법](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EB%8B%A4%EC%A4%91%20IO%20%EA%B0%9C%EB%85%90%20%EB%B0%8F%20%ED%8F%B4%EB%A7%81%20%EA%B8%B0%EB%B2%95.md)
 
-26. [다중 I/O를 위한 Select 기법]()
+26. [다중 I/O를 위한 Select 기법](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EB%8B%A4%EC%A4%91%20IO%EB%A5%BC%20%EC%9C%84%ED%95%9C%20Select%20%EA%B8%B0%EB%B2%95.md)
 
 ---
 
