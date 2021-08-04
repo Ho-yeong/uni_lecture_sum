@@ -136,6 +136,8 @@
 
 26. [다중 I/O를 위한 Select 기법](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EB%8B%A4%EC%A4%91%20IO%EB%A5%BC%20%EC%9C%84%ED%95%9C%20Select%20%EA%B8%B0%EB%B2%95.md)
 
+27. [Select 기반 실습]()
+
 ---
 
 ## 운영체제
