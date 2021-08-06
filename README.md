@@ -213,3 +213,9 @@
 27. [디스크 할당](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EB%94%94%EC%8A%A4%ED%81%AC%20%ED%95%A0%EB%8B%B9.md)
 
 ---
+
+28. [정보보호 개요]()
+
+29. [보안 기법]()
+
+---
