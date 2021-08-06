@@ -214,8 +214,8 @@
 
 ---
 
-28. [정보보호 개요]()
+28. [정보보호 개요](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%20%EA%B0%9C%EC%9A%94.md)
 
-29. [보안 기법]()
+29. [보안 기법](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EB%B3%B4%EC%95%88%EA%B8%B0%EB%B2%95.md)
 
 ---
