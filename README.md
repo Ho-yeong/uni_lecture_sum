@@ -218,4 +218,6 @@
 
 29. [보안 기법](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EB%B3%B4%EC%95%88%EA%B8%B0%EB%B2%95.md)
 
+30. [인증]()
+
 ---
