@@ -68,9 +68,9 @@
 
 ---
 
-28. [일반화와 템플릿, 제네릭 함수와 클래스 만들기]()
+28. [일반화와 템플릿, 제네릭 함수와 클래스 만들기](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9D%BC%EB%B0%98%ED%99%94%EC%99%80%20%ED%85%9C%ED%94%8C%EB%A6%BF%2C%20%EC%A0%9C%EB%84%A4%EB%A6%AD%20%ED%95%A8%EC%88%98%EC%99%80%20%ED%81%B4%EB%9E%98%EC%8A%A4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 
-29. [C++ 표준 템플릿 라이브러리 (STL)]()
+29. [C++ 표준 템플릿 라이브러리 (STL)](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/STL.md)
 
 ---
 
@@ -224,6 +224,6 @@
 
 29. [보안 기법](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EB%B3%B4%EC%95%88%EA%B8%B0%EB%B2%95.md)
 
-30. [인증]()
+30. [인증](https://github.com/Ho-yeong/uni_lecture_sum/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%9D%B8%EC%A6%9D.md)
 
 ---
